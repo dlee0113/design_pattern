@@ -1,0 +1,2 @@
+Delegation Pattern
+http://best-practice-software-engineering.ifs.tuwien.ac.at/patterns/delegation.html
